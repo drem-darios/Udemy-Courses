@@ -1,0 +1,3 @@
+[submodule "mern-stack-course"]
+	path = mern-stack-course
+	url = https://github.com/drem-darios/MERN-Stack.git
